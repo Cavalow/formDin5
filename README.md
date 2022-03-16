@@ -38,7 +38,7 @@ O [Adinati](https://www.adianti.com.br/) é um FrameWork muito bom, com mais rec
 * phpunit-code-coverage - resultado da cobertura dos testes do PHPUnit
 
 # Instalação
-1. Baixar o [Adinati FrameWork 7.2.2](https://www.adianti.com.br/) funciona com o template ou FrameWork Puro. Pode ser que funcione com o Adianti 7.0 ou 7.1, porém não é garantido.
+1. Baixar o [Adinati FrameWork 7.2.2](https://www.adianti.com.br/) ou superior, funciona com o template ou FrameWork Puro.
 1. Copiar o conteudo pasta FormDin5 conforme orientação abaixo e [Extensibilidade do Adianti](https://www.adianti.com.br/framework-extensibility)
     1. No arquivo `app/config/application.ini` incluir as linhas abaixo
     1. No arquivo index.php da raiz do projeto incluir as linhas abaixo
